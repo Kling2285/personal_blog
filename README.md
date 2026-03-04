@@ -85,3 +85,8 @@
 2. 优化敏感词过滤，支持谐音、特殊字符变异识别
 3. 前端增加请求缓存、骨架屏，提升交互体验
 
+<img width="1587" height="738" alt="屏幕截图 2026-03-04 164918" src="https://github.com/user-attachments/assets/cabd4210-6771-483c-b9a8-b6433f29ddac" />
+<img width="1727" height="837" alt="屏幕截图 2026-03-04 165223" src="https://github.com/user-attachments/assets/e7d88f34-8ad1-4701-b4a3-c972570bd60a" />
+<img width="693" height="344" alt="image" src="https://github.com/user-attachments/assets/568c0c61-3d3c-4484-a5e0-ce9cc7b0fd1d" />
+
+
